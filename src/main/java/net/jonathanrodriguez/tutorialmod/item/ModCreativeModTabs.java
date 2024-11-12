@@ -33,6 +33,7 @@ public class ModCreativeModTabs {
                         output.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
 
                         output.accept(ModItems.STRAWBERRY.get());
+                        output.accept(ModItems.PINE_CONE.get());
 
                     })
                     .build());
