@@ -45,6 +45,15 @@ public class ModCreativeModTabs {
                         output.accept(ModBlocks.SAPPHIRE_BUTTON.get());
                         output.accept(ModBlocks.SAPPHIRE_PRESSURE_PLATE.get());
 
+                        output.accept(ModItems.SAPPHIRE_SWORD.get());
+                        output.accept(ModItems.SAPPHIRE_AXE.get());
+                        output.accept(ModItems.SAPPHIRE_PICKAXE.get());
+                        output.accept(ModItems.SAPPHIRE_SHOVEL.get());
+                        output.accept(ModItems.SAPPHIRE_HOE.get());
+
+                        output.accept(ModItems.SAPPHIRE_STAFF.get());
+
+
 
                     })
                     .build());
