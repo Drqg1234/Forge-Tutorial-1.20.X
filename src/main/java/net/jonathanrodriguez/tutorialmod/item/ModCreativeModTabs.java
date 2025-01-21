@@ -53,6 +53,11 @@ public class ModCreativeModTabs {
 
                         output.accept(ModItems.SAPPHIRE_STAFF.get());
 
+                        output.accept(ModItems.SAPPHIRE_HELMET.get());
+                        output.accept(ModItems.SAPPHIRE_CHESTPLATE.get());
+                        output.accept(ModItems.SAPPHIRE_LEGGINGS.get());
+                        output.accept(ModItems.SAPPHIRE_BOOTS.get());
+
 
 
                     })
