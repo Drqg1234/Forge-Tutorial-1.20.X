@@ -17,4 +17,9 @@ public class ModToolTiers {
                     ModTags.Blocks.NEEDS_SAPPHIRE_TOOL, () -> Ingredient.of(ModItems.SAPPHIRE.get())),
             new ResourceLocation(TutorialMod.MOD_ID, "sapphire"), List.of(Tiers.NETHERITE), List.of());
 
+//    public static final Tier CUSTOM = TierSortingRegistry.registerTier(
+//            new ForgeTier(5, 2000, 3, 6f, 25,
+//                    ModTags.Blocks.GREATSWORD, () -> )
+//    )
+
 }

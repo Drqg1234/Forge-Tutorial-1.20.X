@@ -58,6 +58,8 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.SAPPHIRE_LEGGINGS.get());
                         output.accept(ModItems.SAPPHIRE_BOOTS.get());
 
+                        output.accept(ModItems.SWORD.get());
+                        output.accept(ModItems.DS3_ULTRA_GREATSWORD.get());
 
 
                     })

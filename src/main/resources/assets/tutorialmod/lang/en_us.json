@@ -14,6 +14,8 @@
   "item.tutorialmod.sapphire_chestplate": "Sapphire Chestplate",
   "item.tutorialmod.sapphire_leggings": "Sapphire Leggings",
   "item.tutorialmod.sapphire_boots": "Sapphire Boots",
+  "item.tutorialmod.sword": "Sword",
+  "item.tutorialmod.ds3_ultra_greatsword": "Ultra Greatsword",
 
 
   "block.tutorialmod.sapphire_block": "Block of Sapphire",
@@ -41,6 +43,7 @@
 
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables below ground",
+  "entity.minecraft.villager.tutorialmod.soundmaster": "Sound Master",
 
   "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
 }
